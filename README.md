@@ -83,28 +83,6 @@
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=prakhardewangan2005-hash&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhardewangan2005-hash&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=prakhardewangan2005-hash&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
