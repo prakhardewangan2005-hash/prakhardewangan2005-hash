@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prakhar Dewangan</h1>
-<h3 align="center">Software Engineer | ML | Systems | IIIT Allahabad</h3>
+<h3 align="center"> Product Design | Software Engineer | ML | Systems | IIIT Allahabad</h3>
 
 ---
 
