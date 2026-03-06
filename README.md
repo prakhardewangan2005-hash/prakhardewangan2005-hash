@@ -6,8 +6,7 @@
 🚀 **About Me**
 
 - 🎓 B.Tech ECE @ IIIT Allahabad
-- 💻 Interested in Systems, ML, Distributed Systems
-- ⚡ Competitive Programmer
+- 💻 Interested in Product Design, Software developer, ML, Distributed Systems
 - 🛠 Building scalable software & ML tools
 
 ---
