@@ -24,28 +24,28 @@
 
 ---
 
-# 🚀 About Me
+## 🚀 About Me
 
-🎓 B.Tech Electronics & Communication Engineering
-🏫 IIIT Allahabad
+🎓 B.Tech Electronics & Communication Engineering  
+🏫 IIIT Allahabad  
 
 💡 Interests
 
-• Machine Learning Systems
-• Distributed Systems
-• Scalable Backend Systems
-• Product Engineering
+• Product Engineering & Product Design  
+• Machine Learning Systems  
+• Distributed Systems  
+• Scalable Backend Systems  
 
-⚡ I enjoy building **production-ready software and ML systems**
+⚡ I enjoy designing products end-to-end and building production-ready software & ML systems.
 
 📚 Strong in
 
-Data Structures
-Algorithms
-Operating Systems
-System Design
+• Data Structures  
+• Algorithms  
+• Operating Systems  
+• System Design  
 
-🌍 Open to **Software Engineering, ML and Research Internships**
+🌍 Open to Product Design, Software Engineering, ML and Research Internships
 
 ---
 
