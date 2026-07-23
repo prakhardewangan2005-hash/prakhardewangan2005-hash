@@ -5,13 +5,10 @@
 <h1 align="center">Hi 👋 I'm Prakhar Dewangan</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning+Engineer;Distributed+Systems+Builder;Software+Engineer;IIIT+Allahabad;Open+to+Internships&center=true&width=500&height=45">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Product Designer;Grapgic Designer;IIIT+Allahabad;&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-<a href="https://portfolio-nine-khaki-58.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
 
 <a href="https://www.linkedin.com/in/prakhar-dewangan-64839a351/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -31,21 +28,9 @@
 
 💡 Interests
 
-• Product Engineering & Product Design  
-• Machine Learning Systems  
-• Distributed Systems  
-• Scalable Backend Systems  
-
-⚡ I enjoy designing products end-to-end and building production-ready software & ML systems.
-
-📚 Strong in
-
-• Data Structures  
-• Algorithms  
-• Operating Systems  
-• System Design  
-
-🌍 Open to Product Design, Software Engineering, ML and Research Internships
+• Product Designer  
+• Graphic Designer  
+• Content writing    
 
 ---
 
@@ -93,8 +78,9 @@
 
 # 🌐 Connect With Me
 
-📌 Portfolio
-https://portfolio-nine-khaki-58.vercel.app
+📌 Email
+prakhardewangan2005@gmail.com
+
 
 💼 LinkedIn
 https://www.linkedin.com/in/prakhar-dewangan-64839a351/
