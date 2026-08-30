@@ -24,6 +24,14 @@
 
 ---
 
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=prakhardewangan2005-hash&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+---
+
 ### 🛠️ Technical Arsenal
 
 <div align="center">
@@ -87,20 +95,13 @@
 ### 📊 Live GitHub Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prakhardewangan2005-hash&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhardewangan2005-hash&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=prakhardewangan2005-hash&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prakhardewangan2005-hash&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/7aa2f7/prakhardewangan2005-hash" alt="Contribution Graph" />
 </div>
 
 ---
