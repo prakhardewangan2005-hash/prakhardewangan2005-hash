@@ -1,89 +1,41 @@
-<!-- HEADER BANNER -->
+<div align="center">
+  <!-- Dynamic Typing Header Banner -->
+  <a href="https://github.com/prakhardewangan2005-hash">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Hi+I'm+Prakhar+Dewangan+👋;Software+Engineer+%7C+Full-Stack+Developer;DevOps+%26+Cloud+Computing+Enthusiast;Building+Scalable+Systems+%26+Cloud+Architectures" alt="Typing SVG" />
+  </a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:5a5a5a&height=220&section=header&text=Prakhar%20Dewangan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <p align="center">
+    <a href="https://github.com/prakhardewangan2005-hash">
+      <img src="https://komarev.com/ghpvc/?username=prakhardewangan2005-hash&color=7aa2f7&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+    </a>
+    <img src="https://img.shields.io/badge/Open_To-Software_%26_DevOps_Roles-7aa2f7?style=flat-square" alt="Open to Roles" />
+  </p>
 
-<h1 align="center">Hi 👋 I'm Prakhar Dewangan</h1>
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/prakhar-dewangan-64839a351/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://github.com/prakhardewangan2005-hash">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-## 🚀 About Me
-
-🎓 B.Tech Electronics & Communication Engineering  
-🏫 IIIT Allahabad  
-
-💡 Interests
-
-• Product Designer  
-• Graphic Designer  
-• Content writing    
+  <!-- Connect Grid -->
+  <p align="center">
+    <a href="mailto:prakhardewangan@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://linkedin.com/in/prakhardewangan">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/prakhardewangan2005-hash">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+  </p>
+</div>
 
 ---
 
-# 🛠 Tech Stack
+### ⚡ Executive Summary
 
-### Programming
-
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,python,java,js,go"/>
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,django"/>
-</p>
-
-### Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres"/>
-</p>
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,linux,git,aws"/>
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
-
-# 🌐 Connect With Me
-
-📌 Email
-prakhardewangan2005@gmail.com
-
-
-💼 LinkedIn
-https://www.linkedin.com/in/prakhar-dewangan-64839a351/
-
-💻 GitHub
-https://github.com/prakhardewangan2005-hash
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f1f1f,100:5a5a5a&height=120&section=footer"/>
+```yaml
+Name: Prakhar Dewangan
+Role: Software Engineer | Full-Stack Developer | DevOps & Cloud
+Education: B.Tech in Electronics & Communication Engineering @ IIIT Allahabad (2023–2027)
+Core_Competencies:
+  - Distributed Systems & High-Throughput APIs
+  - Cloud Infrastructure & Containerization (Docker, Kubernetes)
+  - CI/CD Automation & Incident-Triage Pipelines
+  - Modern Full-Stack Web Applications (React, TypeScript, Go, Python)
+Status: "Actively engineering, testing, and deploying scalable software systems"
